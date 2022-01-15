@@ -1,4 +1,4 @@
-#### Aluno: Márlu da Silva Santos
+
 #### Objetivos: Implementar modelagem em base de dados real, aplicando os conceitos de:
 * Seleção de variáveis
 * PCA (redução de dimensionalidade)
