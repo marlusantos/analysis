@@ -231,7 +231,7 @@ def lasso_(X,y):
 
 ```
 
-##### 216 variáveis fora eliminadas com a técnica de penalização e 16 variáveis foram selecionadas.
+##### 216 variáveis foram eliminadas com a técnica de penalização e 16 variáveis foram selecionadas.
 
 
 ```python
